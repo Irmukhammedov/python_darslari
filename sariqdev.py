@@ -1,3 +1,8 @@
+"""
+Mening darslarim
+"""
+
+
 # son = int(input("Son kiriting: "))
 # kvadrat = son ** 2
 # print(f"{son} ning kvadrati {kvadrat} ga teng")
