@@ -234,3 +234,19 @@ Mening darslarim
 #     print('Login band, yangi login tanalng!')
 # else:
 #     print(f"Xush kelibsiz! {login}")
+
+
+
+my_car = {
+    "name" : "nexia 3",
+    "color" : "white",
+    "year" : 2019,
+    "price" : 11000
+}
+
+
+print(f"{my_car['name']}, \
+      {my_car['color']} rangda, \
+      {my_car['price']} narxida, \
+      {my_car['year']} yilda ishlab chiqarilgan")
+
