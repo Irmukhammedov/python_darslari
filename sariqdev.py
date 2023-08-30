@@ -237,39 +237,39 @@ Mening darslarim
 
 
 
-my_car = {
-    "name" : "nexia 3",
-    "color" : "white",
-    "year" : 2019,
-    "price" : 11000
-}
+# my_car = {
+#     "name" : "nexia 3",
+#     "color" : "white",
+#     "year" : 2019,
+#     "price" : 11000
+# }
 
 
-print(f"{my_car['name']}, \
-      {my_car['color']} rangda, \
-      {my_car['price']} narxida, \
-      {my_car['year']} yilda ishlab chiqarilgan")
+# print(f"{my_car['name']}, \
+#       {my_car['color']} rangda, \
+#       {my_car['price']} narxida, \
+#       {my_car['year']} yilda ishlab chiqarilgan")
 
-buxoriy = {
-    "ism": "Abu Abdulloh Muhammad ibn Ismoil",
-    "tyil": 810,
-    "vyil": 870,
-    "tjoy": "Buxoro",
-}
+# buxoriy = {
+#     "ism": "Abu Abdulloh Muhammad ibn Ismoil",
+#     "tyil": 810,
+#     "vyil": 870,
+#     "tjoy": "Buxoro",
+# }
 
-qodiriy = {"ism": "Abdulla Qodiriy", "tyil": 1894, "vyil": 1938, "tjoy": "Toshkent"}
+# qodiriy = {"ism": "Abdulla Qodiriy", "tyil": 1894, "vyil": 1938, "tjoy": "Toshkent"}
 
-vohidov = {"ism": "Erkin Vohidov", "tyil": 1936, "vyil": 2016, "tjoy": "Farg'ona"}
+# vohidov = {"ism": "Erkin Vohidov", "tyil": 1936, "vyil": 2016, "tjoy": "Farg'ona"}
 
-navoiy = {"ism": "Alisher Navoiy", "tyil": 1441, "vyil": 1501, "tjoy": "Xirot"}
+# navoiy = {"ism": "Alisher Navoiy", "tyil": 1441, "vyil": 1501, "tjoy": "Xirot"}
 
-shaxslar = [buxoriy, qodiriy, vohidov, navoiy]
+# shaxslar = [buxoriy, qodiriy, vohidov, navoiy]
 
-for shaxs in shaxslar:
-    ism = shaxs["ism"]
-    tyil = shaxs["tyil"]
-    vyil = shaxs["vyil"]
-    tjoy = shaxs["tjoy"]
-    print(
-        f"{ism} {tyil}-yilda {tjoy}da tavallud topgan. " f"{vyil-tyil} yil umr ko'rgan."
-    )
+# for shaxs in shaxslar:
+#     ism = shaxs["ism"]
+#     tyil = shaxs["tyil"]
+#     vyil = shaxs["vyil"]
+#     tjoy = shaxs["tjoy"]
+#     print(
+#         f"{ism} {tyil}-yilda {tjoy}da tavallud topgan. " f"{vyil-tyil} yil umr ko'rgan."
+#     )
